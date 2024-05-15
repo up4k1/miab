@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.vscode/
+node_modules/
+output.txt
+redirect_urls.txt
+config.txt
+1.lst
